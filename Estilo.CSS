@@ -1,0 +1,33 @@
+
+		.cuerpo {background-color:black;}
+		#titulo {
+			text-align: center; float:center;
+			color: purple;
+			background-color: black;
+			font-size: 40px;
+			
+			}
+		.cajagrande {display:flex; 
+					flex-direction:row;}
+		
+		.centro {
+			background-color: black
+			text-align: center; 
+				padding: 30px; 
+				width:90%}
+		
+		.izquierda {text-align: left;
+					background-color: black; color:white; 
+					padding: 40px 40px 40px 0; 
+					width:10%; 
+					display:flex; 
+					flex-direction:column;
+					height:200px}
+					
+		.enlace {margin-bottom:10px;}
+		
+		.ventada {background-color: black; 
+				margin: 0 auto; 
+				color: purple;
+				width: 800px; 
+				padding:10px;}
